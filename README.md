@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 About Me
-Fullstack developer from Egypt passionate about creating efficient solutions. I'm the founder of [TUF Coding](https://tufcoding.com), specializing full-stack development alongside Botting, Automation and Web Scraping solutions.
+Fullstack developer from Egypt passionate about creating efficient solutions. I'm the founder of [TUF Coding](https://tufcoding.com), specializing in full-stack development alongside Botting, Automation and Web Scraping solutions.
 
 ## 🛠️ Technologies & Tools
 
@@ -24,9 +24,10 @@ Fullstack developer from Egypt passionate about creating efficient solutions. I'
 <h3 align="center">Backend Development</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </p>
 
 ---
